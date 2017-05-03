@@ -13,6 +13,8 @@ regions[highlighted] = Highlighted
 regions[sidebar_first] = Sidebar First
 regions[sidebar_second] = Sidebar Second
 
+regions[hoofer] = Hoofer
+
 
 regions[gothic] = Gothic
 regions[camel] = Camel
