@@ -1,3 +1,10 @@
+
+.header__site-link:link, .header__site-link:visited {
+    color: brown;
+    text-decoration: none;
+}
+
+
 * {
   box-sizing: border-box;
 }
@@ -20,8 +27,8 @@ html {
 body {
   margin: 0;
   padding: 0;
-  color: #000;
-  background-color: #fff;
+  color: #512c16;
+  background-color: black;
 }
 
 article,
@@ -61,12 +68,12 @@ template,
 }
 
 a {
-  color: #0072b9;
+  color: #a82121;
   -webkit-text-decoration-skip: objects;
 }
 
 :visited {
-  color: #003353;
+  color: tan;
 }
 
 a:active {
@@ -814,13 +821,9 @@ th {
   margin: 0;
 }
 
-.header__site-link:link, .header__site-link:visited {
-  color: #000;
-  text-decoration: none;
-}
 
 .header__site-link:hover, .header__site-link:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .header__site-slogan {
